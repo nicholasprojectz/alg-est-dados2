@@ -1,0 +1,9 @@
+# CSV original do Kaggle: grande demais para o GitHub
+*.csv
+
+# Executáveis e temporários
+*.exe
+separa_dataset
+trabalho
+*.tmp
+.DS_Store
